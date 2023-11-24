@@ -443,31 +443,37 @@ img {
   background-color: var(--first-color);
 }
 .skills__html {
-  width: 95%;
+  width: 55%;
 }
 .skills__css {
-  width: 84%;
+  width: 55%;
 }
 .skills__javascript {
   width: 50%;
 }
 .skills__flutter {
-  width: 89%;
+  width: 88%;
 }
 
 .skills__dart{
-  width: 96%;
+  width: 97%;
 }
 
+.skills__kotlin{
+  width: 97%;
+}
+.skills__swift{
+  width: 97%;
+}
 
 .skills__figma {
   width: 93%;
 }
 .skills__adobexd {
-  width: 96%;
+  width: 67%;
 }
 .skills__photoshop {
-  width: 83%;
+  width: 74%;
 }
 
 .skills__git {
